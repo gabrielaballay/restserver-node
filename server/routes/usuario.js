@@ -103,7 +103,7 @@ module.exports = app;
 
 
 
-//ELIMINA FISICAMENTE EL USUARIO DE LA BD
+//ELIMINA FISICAMENTE EL USUARIO DE LA BD permanente
 
 // Usuario.findByIdAndDelete(id, (err, usuarioBorrado) => {
 //     if (err) {
